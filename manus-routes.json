@@ -1,0 +1,68 @@
+{
+  "routes": [
+    {
+      "path": "/",
+      "title": "홈"
+    },
+    {
+      "path": "/work",
+      "title": "작업"
+    },
+    {
+      "path": "/studio",
+      "title": "스튜디오"
+    },
+    {
+      "path": "/contact",
+      "title": "문의"
+    },
+    {
+      "path": "/en",
+      "title": "Home"
+    },
+    {
+      "path": "/en/work",
+      "title": "Work"
+    },
+    {
+      "path": "/en/studio",
+      "title": "Studio"
+    },
+    {
+      "path": "/en/contact",
+      "title": "Contact"
+    },
+    {
+      "path": "/zh",
+      "title": "首页"
+    },
+    {
+      "path": "/zh/work",
+      "title": "作品"
+    },
+    {
+      "path": "/zh/studio",
+      "title": "工作室"
+    },
+    {
+      "path": "/zh/contact",
+      "title": "咨询"
+    },
+    {
+      "path": "/ja",
+      "title": "ホーム"
+    },
+    {
+      "path": "/ja/work",
+      "title": "作品"
+    },
+    {
+      "path": "/ja/studio",
+      "title": "スタジオ"
+    },
+    {
+      "path": "/ja/contact",
+      "title": "お問い合わせ"
+    }
+  ]
+}
